@@ -1,2 +1,2 @@
-# require "paperclip/railtie"
-# Paperclip::Railtie.insert
+require "paperclip/railtie"
+Paperclip::Railtie.insert
